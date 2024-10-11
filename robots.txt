@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laemzb.github.io/Ssr/sitemap.Ssr.gz
